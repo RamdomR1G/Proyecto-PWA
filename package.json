@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-del-curso",
+  "version": "1.0.0",
+  "description": "App sencilla parecida a Instagram",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "IDGS15",
+  "license": "UTEQ",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
